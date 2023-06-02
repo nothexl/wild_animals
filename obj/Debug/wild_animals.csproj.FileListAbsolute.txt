@@ -1,0 +1,16 @@
+C:\Users\tishe\source\repos\wild_animals\bin\Debug\wild_animals.exe.config
+C:\Users\tishe\source\repos\wild_animals\bin\Debug\wild_animals.exe
+C:\Users\tishe\source\repos\wild_animals\bin\Debug\wild_animals.pdb
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.csproj.AssemblyReference.cache
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.csproj.SuggestedBindingRedirects.cache
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\MainWindow.g.cs
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\App.g.cs
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals_MarkupCompile.cache
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals_MarkupCompile.lref
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\MainWindow.baml
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.g.resources
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.Properties.Resources.resources
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.csproj.GenerateResource.cache
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.csproj.CoreCompileInputs.cache
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.exe
+C:\Users\tishe\source\repos\wild_animals\obj\Debug\wild_animals.pdb
