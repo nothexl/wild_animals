@@ -99,5 +99,8 @@
     <Resource Include="Pictures\giraffe.jpg" />
     <Resource Include="Pictures\tiger.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Pictures\kangaroo.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

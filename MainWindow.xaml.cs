@@ -41,18 +41,24 @@ namespace wild_animals
                 imageDesc.Text = "Жира́ф — парнокопытное млекопитающее из семейства жирафовых. Является самым высоким наземным животным планеты.";
                 imageElement.Height = 500;
             }
-            else
+            else if (imageId == 2)
             {
                 imageElement.Source = new BitmapImage(new Uri("..\\Pictures\\tiger.jpg", UriKind.Relative));
                 imageDesc.Text = "Тигр — хищное млекопитающее семейства кошачьих, один из пяти видов рода пантер, принадлежащего к подсемейству больших кошек. Слово «тигр» происходит от др.-греч. τίγρις, которое в свою очередь восходит к др.-перс. *tigri от корня «*taig» со значением «острый; быстрый».";
                 imageElement.Height = 350;
+            }
+            else
+            {
+                imageElement.Source = new BitmapImage(new Uri("..\\Pictures\\kangaroo.jpg", UriKind.Relative));
+                imageDesc.Text = "Кенгуру — общеупотребительное название группы животных из отряда двурезцовых сумчатых млекопитающих. В широком смысле термин кенгуру относится ко всем представителям семейства кенгуровых, в особенности таким как красноногий филандер, антилоповый кенгуру, восточный серый кенгуру и западный серый кенгуру.";
+                imageElement.Height = 450;
             }
         }
 
         private void leftArrow_Click(object sender, RoutedEventArgs e)
         {
             if (imageId == 0)
-                imageId = 2;
+                imageId = 3;
             else
                 imageId--;
 
@@ -61,7 +67,7 @@ namespace wild_animals
 
         private void rightArrow_Click(object sender, RoutedEventArgs e)
         {
-            if (imageId == 2)
+            if (imageId == 3)
                 imageId = 0;
             else
                 imageId++;
